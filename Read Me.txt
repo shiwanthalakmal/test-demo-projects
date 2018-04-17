@@ -1,3 +1,9 @@
-Extract 'project' zip file
+- Extract 'Project' zip file
+	- java-projects
+	- javascript-projects
+	- ruby-projects
+	- reporting module
 
-projects are arranged based on language i have done
+
+- Extract 'TypeScriptProject' zip file
+	- Protractor + typescript based framework
